@@ -27,7 +27,7 @@ A modern, customizable prize wheel (wheel of fortune) component for React Native
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-native-prize-wheel.git
+git clone https://github.com/BoulbabMohamed/react-native-prize-wheel.git
 cd react-native-prize-wheel
 ```
 
